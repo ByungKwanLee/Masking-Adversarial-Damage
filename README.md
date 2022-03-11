@@ -21,24 +21,24 @@ novel adversarial pruning method, Masking Adversarial Damage (MAD) that employs 
 By using it, we can accurately estimate adversarial saliency for model parameters and determine which parameters can be 
 pruned without weakening adversarial robustness.
 
-<center>
+<p align="center">
 <img src="figure/adversarial saliency.png" width="1140" height="300">
-</center>
+</p>
 
 
 Furthermore, we reveal that model parameters of initial layer are highly sensitive to the adversarial examples and show that compressed feature representation retains semantic information for the target objects.
 
-<center>
+<p align="center">
 <img src="figure/semantic information.png" width="465" height="350">
-</center>
+</p>
 
 Through extensive experiments on public datasets, we demonstrate that MAD effectively prunes adversarially trained 
 networks without loosing adversarial robustness and shows better performance than previous adversarial pruning methods.
 For more detail, you can refer to our paper that will be accessible to public soon!.
 
-<center>
+<p align="center">
 <img src="figure/pruning ratio.png"  width="720" height="300">
-</center>
+</p>
 
 Adversarial attacks can potentially cause negative impacts on various DNN applications due to high computation and its 
 fragility. By pruning model parameters without weakening adversarial robustness, our work contributes important societal 
