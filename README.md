@@ -22,7 +22,7 @@ By using it, we can accurately estimate adversarial saliency for model parameter
 pruned without weakening adversarial robustness.
 
 <p align="center">
-<img src="figure/adversarial saliency.png" width="1140" height="300">
+<img src="figure/adversarial saliency.png" width="760" height="200">
 </p>
 
 
