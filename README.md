@@ -2,7 +2,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network (CVPR 2022) [[paper](https://arxiv.org/abs/2204.02738)]
 [![Generic badge](https://img.shields.io/badge/Library-Pytorch-green.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ByungKwanLee/Adversarial-Information-Bottleneck/blob/master/LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ByungKwanLee/Masking-Adversarial-Damage/blob/master/LICENSE) 
 
 
 ---
