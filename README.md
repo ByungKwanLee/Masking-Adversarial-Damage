@@ -1,6 +1,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network (CVPR 2022) [[paper](https://arxiv.org/abs/2204.02738)]
+# CVPR 2022
+# [Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Masking_Adversarial_Damage_Finding_Adversarial_Saliency_for_Robust_and_Sparse_CVPR_2022_paper.pdf)
 [![Generic badge](https://img.shields.io/badge/Library-Pytorch-green.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ByungKwanLee/Masking-Adversarial-Damage/blob/master/LICENSE) 
 
@@ -16,7 +17,7 @@
 ---
 
 This is official PyTorch Implementation code for the paper of "Masking Adversarial Damage: Finding Adversarial Saliency 
-for Robust and Sparse Network" accepted in CVPR22. To bridge adversarial robustness and model compression, we propose a
+for Robust and Sparse Network" accepted in CVPR 2022. To bridge adversarial robustness and model compression, we propose a
 novel adversarial pruning method, Masking Adversarial Damage (MAD) that employs second-order information of adversarial loss.
 By using it, we can accurately estimate adversarial saliency for model parameters and determine which parameters can be 
 pruned without weakening adversarial robustness.
